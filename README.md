@@ -1,4 +1,4 @@
-# demo_app1
+# demo_app1: Udemy course
 
 A new Flutter application.
 
